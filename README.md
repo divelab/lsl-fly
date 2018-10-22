@@ -1,4 +1,3 @@
-# embryo-annotation
 
 # Deep Low-Shot Learning for Biological Image Classification and Visualization from Small Training Samples
 
